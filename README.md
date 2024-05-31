@@ -1,7 +1,7 @@
 Manikandan N
 Data Scientist | Statistician | Data Analyst
 
-Email | GitHub | LinkedIn | Villupuram, Tamil Nadu | +91-77088-16384
+maninaga6384@gmail.com | https://github.com/Mani-2211 | linkedin.com/in/mani2 | Villupuram, Tamil Nadu | +91-77088-16384
 
 👋 Hi, I’m @Mani-2211
 👀 I’m interested in ...
