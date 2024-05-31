@@ -3,7 +3,7 @@ Data Scientist | Statistician | Data Analyst
 
 maninaga6384@gmail.com | https://github.com/Mani-2211 | https://linkedin.com/in/mani2 | Villupuram, Tamil Nadu | +91-77088-16384
 
-👋 Hi, I’m @Mani-2211
+👋 Hi, I’m Manikandan N
 👀 I’m interested in ...
 Exploring innovative data science methodologies, statistical modeling, and predictive analytics. Passionate about applying advanced statistical techniques to real-world problems and deriving actionable insights from complex datasets.
 
