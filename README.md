@@ -14,7 +14,7 @@ Advanced machine learning algorithms, deep learning techniques, and big data ana
 Projects related to data analysis, machine learning, and statistical research. Open to collaborations on data visualization projects and developing predictive models that can drive strategic decisions.
 
 📫 How to reach me ...
-Feel free to connect with me via email:maninaga6384@gmail.com or through my LinkedIn: linkedin.com/in/mani2 .
+Feel free to connect with me via email:maninaga6384@gmail.com or through my LinkedIn: https://linkedin.com/in/mani2 
 
 😄 Pronouns: He/Him
 ⚡ Fun fact: ...
